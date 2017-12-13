@@ -1,0 +1,23 @@
+{
+  "name": "mn-calculator",
+  "version": "1.0.0",
+  "description": "masternode calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/99darwin/mn-calculator.git"
+  },
+  "author": "99darwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/99darwin/mn-calculator/issues"
+  },
+  "homepage": "https://github.com/99darwin/mn-calculator#readme",
+  "dependencies": {
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
